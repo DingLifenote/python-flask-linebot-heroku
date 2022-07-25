@@ -1,7 +1,7 @@
 {
     "name": "LINE Messaging API, echo bot",
     "description": "LINE Messaging API application",
-    "keywords": ["pytohn", "flask", "linebot"],
+    "keywords": ["python", "flask", "linebot"],
     "env": {
         "LINE_CHANNEL_SECRET": {
             "description": "LINE bot Channel secret",
