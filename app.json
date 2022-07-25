@@ -1,0 +1,15 @@
+{
+    "name": "LINE Messaging API, echo bot",
+    "description": "LINE Messaging API application",
+    "keywords": ["pytohn", "flask", "linebot"],
+    "env": {
+        "LINE_CHANNEL_SECRET": {
+            "description": "LINE bot Channel secret",
+            "required":  true
+        },
+        "LINE_CHANNEL_ACCESS_TOKEN": {
+            "description": "LINE bot Channel access token",
+            "required":  true
+        }
+    }
+}
